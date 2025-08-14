@@ -28,7 +28,7 @@ Landing page for a **student-focused platform** helping South African students *
 2. Open `index.html` in your browser.  
 
 ## 🌐 Live Demo  
-[**View Live Website**](https://yourusername.github.io/startup-website/) *(replace with your actual GitHub Pages link)*  
+[**View Live Website**](https:/kkisten-05.github.io/startup-website/) *(replace with your actual GitHub Pages link)*  
 
 ## 🛠 Technologies Used  
 - HTML5  
